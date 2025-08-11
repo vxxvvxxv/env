@@ -1,3 +1,3 @@
-module github.com/codingconcepts/env
+module github.com/vxxvvxxv/env
 
-go 1.22.4
+go 1.24
