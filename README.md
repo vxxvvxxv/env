@@ -1,14 +1,14 @@
 # env
 Tag-based environment configuration for structs.
 
-[![Godoc](https://godoc.org/github.com/codingconcepts/env?status.svg)](https://godoc.org/github.com/codingconcepts/env)
-[![Build Status](https://travis-ci.org/codingconcepts/env.svg?branch=master)](https://travis-ci.org/codingconcepts/env)
-[![Go Report Card](https://goreportcard.com/badge/github.com/codingconcepts/env)](https://goreportcard.com/report/github.com/codingconcepts/env)
+[![Godoc](https://godoc.org/github.com/vxxvvxxv/env?status.svg)](https://godoc.org/github.com/vxxvvxxv/env)
+[![Build Status](https://travis-ci.org/vxxvvxxv/env.svg?branch=master)](https://travis-ci.org/vxxvvxxv/env)
+[![Go Report Card](https://goreportcard.com/badge/github.com/vxxvvxxv/env)](https://goreportcard.com/report/github.com/vxxvvxxv/env)
 
 ## Installation
 
 ``` bash
-$ go get -u github.com/codingconcepts/env
+$ go get -u github.com/vxxvvxxv/env
 ```
 
 ## Usage
@@ -21,7 +21,7 @@ import (
 	"log"
 	"time"
 
-	"github.com/codingconcepts/env"
+	"github.com/vxxvvxxv/env"
 )
 
 type config struct {
